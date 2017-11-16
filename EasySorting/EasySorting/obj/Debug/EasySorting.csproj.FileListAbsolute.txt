@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\EasySorting\EasySorting\bin\Debug\EasySorting.exe.config
+C:\Users\Tec\source\repos\EasySorting\EasySorting\bin\Debug\EasySorting.exe
+C:\Users\Tec\source\repos\EasySorting\EasySorting\bin\Debug\EasySorting.pdb
+C:\Users\Tec\source\repos\EasySorting\EasySorting\obj\Debug\EasySorting.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\EasySorting\EasySorting\obj\Debug\EasySorting.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\EasySorting\EasySorting\obj\Debug\EasySorting.exe
+C:\Users\Tec\source\repos\EasySorting\EasySorting\obj\Debug\EasySorting.pdb

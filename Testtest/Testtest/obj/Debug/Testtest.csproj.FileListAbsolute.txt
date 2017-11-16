@@ -1,0 +1,7 @@
+c:\users\tec\source\repos\Testtest\Testtest\bin\Debug\Testtest.exe.config
+c:\users\tec\source\repos\Testtest\Testtest\bin\Debug\Testtest.exe
+c:\users\tec\source\repos\Testtest\Testtest\bin\Debug\Testtest.pdb
+c:\users\tec\source\repos\Testtest\Testtest\obj\Debug\Testtest.csprojResolveAssemblyReference.cache
+c:\users\tec\source\repos\Testtest\Testtest\obj\Debug\Testtest.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\Testtest\Testtest\obj\Debug\Testtest.exe
+c:\users\tec\source\repos\Testtest\Testtest\obj\Debug\Testtest.pdb

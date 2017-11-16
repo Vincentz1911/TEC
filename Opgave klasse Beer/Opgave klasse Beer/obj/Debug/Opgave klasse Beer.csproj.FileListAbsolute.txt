@@ -1,0 +1,7 @@
+c:\users\tec\source\repos\Opgave klasse Beer\Opgave klasse Beer\obj\Debug\Opgave klasse Beer.csprojResolveAssemblyReference.cache
+c:\users\tec\source\repos\Opgave klasse Beer\Opgave klasse Beer\obj\Debug\Opgave klasse Beer.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\Opgave klasse Beer\Opgave klasse Beer\bin\Debug\Opgave klasse Beer.exe.config
+c:\users\tec\source\repos\Opgave klasse Beer\Opgave klasse Beer\bin\Debug\Opgave klasse Beer.exe
+c:\users\tec\source\repos\Opgave klasse Beer\Opgave klasse Beer\bin\Debug\Opgave klasse Beer.pdb
+c:\users\tec\source\repos\Opgave klasse Beer\Opgave klasse Beer\obj\Debug\Opgave klasse Beer.exe
+c:\users\tec\source\repos\Opgave klasse Beer\Opgave klasse Beer\obj\Debug\Opgave klasse Beer.pdb

@@ -1,0 +1,13 @@
+c:\users\vincentz\documents\visual studio 2015\Projects\Opgaver2\Opgaver2\bin\Debug\Opgaver2.exe.config
+c:\users\vincentz\documents\visual studio 2015\Projects\Opgaver2\Opgaver2\bin\Debug\Opgaver2.exe
+c:\users\vincentz\documents\visual studio 2015\Projects\Opgaver2\Opgaver2\bin\Debug\Opgaver2.pdb
+c:\users\vincentz\documents\visual studio 2015\Projects\Opgaver2\Opgaver2\obj\Debug\Opgaver2.csprojResolveAssemblyReference.cache
+c:\users\vincentz\documents\visual studio 2015\Projects\Opgaver2\Opgaver2\obj\Debug\Opgaver2.exe
+c:\users\vincentz\documents\visual studio 2015\Projects\Opgaver2\Opgaver2\obj\Debug\Opgaver2.pdb
+C:\Users\Tec\Desktop\Opgaver2\Opgaver2\bin\Debug\Opgaver2.exe.config
+C:\Users\Tec\Desktop\Opgaver2\Opgaver2\bin\Debug\Opgaver2.exe
+C:\Users\Tec\Desktop\Opgaver2\Opgaver2\bin\Debug\Opgaver2.pdb
+C:\Users\Tec\Desktop\Opgaver2\Opgaver2\obj\Debug\Opgaver2.csprojResolveAssemblyReference.cache
+C:\Users\Tec\Desktop\Opgaver2\Opgaver2\obj\Debug\Opgaver2.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Desktop\Opgaver2\Opgaver2\obj\Debug\Opgaver2.exe
+C:\Users\Tec\Desktop\Opgaver2\Opgaver2\obj\Debug\Opgaver2.pdb

@@ -1,0 +1,7 @@
+c:\users\tec\source\repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe.config
+c:\users\tec\source\repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.exe
+c:\users\tec\source\repos\OperatorOverload\OperatorOverload\bin\Debug\OperatorOverload.pdb
+c:\users\tec\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csprojResolveAssemblyReference.cache
+c:\users\tec\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.exe
+c:\users\tec\source\repos\OperatorOverload\OperatorOverload\obj\Debug\OperatorOverload.pdb

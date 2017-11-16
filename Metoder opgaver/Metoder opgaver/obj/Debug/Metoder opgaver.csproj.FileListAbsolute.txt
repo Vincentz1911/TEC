@@ -1,0 +1,7 @@
+c:\users\tec\source\repos\Metoder opgaver\Metoder opgaver\bin\Debug\Metoder opgaver.exe.config
+c:\users\tec\source\repos\Metoder opgaver\Metoder opgaver\bin\Debug\Metoder opgaver.exe
+c:\users\tec\source\repos\Metoder opgaver\Metoder opgaver\bin\Debug\Metoder opgaver.pdb
+c:\users\tec\source\repos\Metoder opgaver\Metoder opgaver\obj\Debug\Metoder opgaver.csprojResolveAssemblyReference.cache
+c:\users\tec\source\repos\Metoder opgaver\Metoder opgaver\obj\Debug\Metoder opgaver.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\Metoder opgaver\Metoder opgaver\obj\Debug\Metoder opgaver.exe
+c:\users\tec\source\repos\Metoder opgaver\Metoder opgaver\obj\Debug\Metoder opgaver.pdb

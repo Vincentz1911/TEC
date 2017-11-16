@@ -1,0 +1,7 @@
+c:\users\tec\source\repos\Simon Opgaver\Simon Opgaver\bin\Debug\Simon Opgaver.exe.config
+c:\users\tec\source\repos\Simon Opgaver\Simon Opgaver\bin\Debug\Simon Opgaver.exe
+c:\users\tec\source\repos\Simon Opgaver\Simon Opgaver\bin\Debug\Simon Opgaver.pdb
+c:\users\tec\source\repos\Simon Opgaver\Simon Opgaver\obj\Debug\Simon Opgaver.csprojResolveAssemblyReference.cache
+c:\users\tec\source\repos\Simon Opgaver\Simon Opgaver\obj\Debug\Simon Opgaver.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\Simon Opgaver\Simon Opgaver\obj\Debug\Simon Opgaver.exe
+c:\users\tec\source\repos\Simon Opgaver\Simon Opgaver\obj\Debug\Simon Opgaver.pdb

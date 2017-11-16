@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\Dag 8 programmering Metoder\Dag 8 programmering Metoder\bin\Debug\Dag 8 programmering Metoder.exe.config
+C:\Users\Tec\source\repos\Dag 8 programmering Metoder\Dag 8 programmering Metoder\bin\Debug\Dag 8 programmering Metoder.exe
+C:\Users\Tec\source\repos\Dag 8 programmering Metoder\Dag 8 programmering Metoder\bin\Debug\Dag 8 programmering Metoder.pdb
+C:\Users\Tec\source\repos\Dag 8 programmering Metoder\Dag 8 programmering Metoder\obj\Debug\Dag 8 programmering Metoder.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\Dag 8 programmering Metoder\Dag 8 programmering Metoder\obj\Debug\Dag 8 programmering Metoder.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Dag 8 programmering Metoder\Dag 8 programmering Metoder\obj\Debug\Dag 8 programmering Metoder.exe
+C:\Users\Tec\source\repos\Dag 8 programmering Metoder\Dag 8 programmering Metoder\obj\Debug\Dag 8 programmering Metoder.pdb

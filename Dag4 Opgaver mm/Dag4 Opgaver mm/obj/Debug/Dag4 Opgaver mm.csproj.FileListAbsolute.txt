@@ -1,0 +1,19 @@
+c:\users\vincentz\documents\visual studio 2015\Projects\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.exe.config
+c:\users\vincentz\documents\visual studio 2015\Projects\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.csprojResolveAssemblyReference.cache
+c:\users\vincentz\documents\visual studio 2015\Projects\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.exe
+c:\users\vincentz\documents\visual studio 2015\Projects\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.pdb
+c:\users\vincentz\documents\visual studio 2015\Projects\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.exe
+c:\users\vincentz\documents\visual studio 2015\Projects\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.pdb
+E:\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.exe.config
+E:\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.exe
+E:\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.pdb
+E:\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.exe
+E:\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.pdb
+E:\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.csprojResolveAssemblyReference.cache
+C:\Users\Tec\Desktop\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.exe.config
+C:\Users\Tec\Desktop\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.exe
+C:\Users\Tec\Desktop\Dag4 Opgaver mm\Dag4 Opgaver mm\bin\Debug\Dag4 Opgaver mm.pdb
+C:\Users\Tec\Desktop\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.csprojResolveAssemblyReference.cache
+C:\Users\Tec\Desktop\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.csproj.CoreCompileInputs.cache
+C:\Users\Tec\Desktop\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.exe
+C:\Users\Tec\Desktop\Dag4 Opgaver mm\Dag4 Opgaver mm\obj\Debug\Dag4 Opgaver mm.pdb

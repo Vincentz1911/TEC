@@ -1,0 +1,7 @@
+c:\users\tec\source\repos\MyCompute\MyCompute\bin\Debug\MyCompute.exe.config
+c:\users\tec\source\repos\MyCompute\MyCompute\bin\Debug\MyCompute.exe
+c:\users\tec\source\repos\MyCompute\MyCompute\bin\Debug\MyCompute.pdb
+c:\users\tec\source\repos\MyCompute\MyCompute\obj\Debug\MyCompute.csprojResolveAssemblyReference.cache
+c:\users\tec\source\repos\MyCompute\MyCompute\obj\Debug\MyCompute.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\MyCompute\MyCompute\obj\Debug\MyCompute.exe
+c:\users\tec\source\repos\MyCompute\MyCompute\obj\Debug\MyCompute.pdb

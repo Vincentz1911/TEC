@@ -1,0 +1,7 @@
+c:\users\tec\source\repos\ArrayUndervisning\ArrayUndervisning\obj\Debug\ArrayUndervisning.csprojResolveAssemblyReference.cache
+c:\users\tec\source\repos\ArrayUndervisning\ArrayUndervisning\obj\Debug\ArrayUndervisning.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\ArrayUndervisning\ArrayUndervisning\bin\Debug\ArrayUndervisning.exe.config
+c:\users\tec\source\repos\ArrayUndervisning\ArrayUndervisning\bin\Debug\ArrayUndervisning.exe
+c:\users\tec\source\repos\ArrayUndervisning\ArrayUndervisning\bin\Debug\ArrayUndervisning.pdb
+c:\users\tec\source\repos\ArrayUndervisning\ArrayUndervisning\obj\Debug\ArrayUndervisning.exe
+c:\users\tec\source\repos\ArrayUndervisning\ArrayUndervisning\obj\Debug\ArrayUndervisning.pdb

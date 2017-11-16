@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\Dag2 Programmering\Dag2 Programmering\bin\Debug\Dag2 Programmering.exe.config
+C:\Users\Tec\source\repos\Dag2 Programmering\Dag2 Programmering\bin\Debug\Dag2 Programmering.exe
+C:\Users\Tec\source\repos\Dag2 Programmering\Dag2 Programmering\bin\Debug\Dag2 Programmering.pdb
+C:\Users\Tec\source\repos\Dag2 Programmering\Dag2 Programmering\obj\Debug\Dag2 Programmering.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\Dag2 Programmering\Dag2 Programmering\obj\Debug\Dag2 Programmering.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Dag2 Programmering\Dag2 Programmering\obj\Debug\Dag2 Programmering.exe
+C:\Users\Tec\source\repos\Dag2 Programmering\Dag2 Programmering\obj\Debug\Dag2 Programmering.pdb

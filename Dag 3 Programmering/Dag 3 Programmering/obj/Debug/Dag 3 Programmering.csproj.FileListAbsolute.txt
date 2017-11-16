@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\Dag 3 Programmering\Dag 3 Programmering\bin\Debug\Dag 3 Programmering.exe.config
+C:\Users\Tec\source\repos\Dag 3 Programmering\Dag 3 Programmering\bin\Debug\Dag 3 Programmering.exe
+C:\Users\Tec\source\repos\Dag 3 Programmering\Dag 3 Programmering\bin\Debug\Dag 3 Programmering.pdb
+C:\Users\Tec\source\repos\Dag 3 Programmering\Dag 3 Programmering\obj\Debug\Dag 3 Programmering.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\Dag 3 Programmering\Dag 3 Programmering\obj\Debug\Dag 3 Programmering.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Dag 3 Programmering\Dag 3 Programmering\obj\Debug\Dag 3 Programmering.exe
+C:\Users\Tec\source\repos\Dag 3 Programmering\Dag 3 Programmering\obj\Debug\Dag 3 Programmering.pdb

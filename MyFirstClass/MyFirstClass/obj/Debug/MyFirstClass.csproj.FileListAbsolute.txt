@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.exe.config
+C:\Users\Tec\source\repos\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.exe
+C:\Users\Tec\source\repos\MyFirstClass\MyFirstClass\bin\Debug\MyFirstClass.pdb
+C:\Users\Tec\source\repos\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.exe
+C:\Users\Tec\source\repos\MyFirstClass\MyFirstClass\obj\Debug\MyFirstClass.pdb

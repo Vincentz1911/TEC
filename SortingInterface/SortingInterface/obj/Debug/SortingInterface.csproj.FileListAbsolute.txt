@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\SortingInterface\SortingInterface\bin\Debug\SortingInterface.exe.config
+C:\Users\Tec\source\repos\SortingInterface\SortingInterface\bin\Debug\SortingInterface.exe
+C:\Users\Tec\source\repos\SortingInterface\SortingInterface\bin\Debug\SortingInterface.pdb
+C:\Users\Tec\source\repos\SortingInterface\SortingInterface\obj\Debug\SortingInterface.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\SortingInterface\SortingInterface\obj\Debug\SortingInterface.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\SortingInterface\SortingInterface\obj\Debug\SortingInterface.exe
+C:\Users\Tec\source\repos\SortingInterface\SortingInterface\obj\Debug\SortingInterface.pdb

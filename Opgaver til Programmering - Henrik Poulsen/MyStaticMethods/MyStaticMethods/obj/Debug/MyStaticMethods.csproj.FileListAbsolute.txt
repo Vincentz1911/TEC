@@ -1,0 +1,6 @@
+c:\users\tec\source\repos\MyStaticMethods\MyStaticMethods\bin\Debug\MyStaticMethods.exe.config
+c:\users\tec\source\repos\MyStaticMethods\MyStaticMethods\bin\Debug\MyStaticMethods.exe
+c:\users\tec\source\repos\MyStaticMethods\MyStaticMethods\bin\Debug\MyStaticMethods.pdb
+c:\users\tec\source\repos\MyStaticMethods\MyStaticMethods\obj\Debug\MyStaticMethods.csproj.CoreCompileInputs.cache
+c:\users\tec\source\repos\MyStaticMethods\MyStaticMethods\obj\Debug\MyStaticMethods.exe
+c:\users\tec\source\repos\MyStaticMethods\MyStaticMethods\obj\Debug\MyStaticMethods.pdb

@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\Dag 7 programmering\Dag 7 programmering\bin\Debug\Dag 7 programmering.exe.config
+C:\Users\Tec\source\repos\Dag 7 programmering\Dag 7 programmering\bin\Debug\Dag 7 programmering.exe
+C:\Users\Tec\source\repos\Dag 7 programmering\Dag 7 programmering\bin\Debug\Dag 7 programmering.pdb
+C:\Users\Tec\source\repos\Dag 7 programmering\Dag 7 programmering\obj\Debug\Dag 7 programmering.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\Dag 7 programmering\Dag 7 programmering\obj\Debug\Dag 7 programmering.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Dag 7 programmering\Dag 7 programmering\obj\Debug\Dag 7 programmering.exe
+C:\Users\Tec\source\repos\Dag 7 programmering\Dag 7 programmering\obj\Debug\Dag 7 programmering.pdb

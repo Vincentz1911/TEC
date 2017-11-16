@@ -1,0 +1,7 @@
+C:\Users\Tec\source\repos\Dag5 programmering\Dag5 programmering\bin\Debug\Dag5 programmering.exe.config
+C:\Users\Tec\source\repos\Dag5 programmering\Dag5 programmering\bin\Debug\Dag5 programmering.exe
+C:\Users\Tec\source\repos\Dag5 programmering\Dag5 programmering\bin\Debug\Dag5 programmering.pdb
+C:\Users\Tec\source\repos\Dag5 programmering\Dag5 programmering\obj\Debug\Dag5 programmering.csprojResolveAssemblyReference.cache
+C:\Users\Tec\source\repos\Dag5 programmering\Dag5 programmering\obj\Debug\Dag5 programmering.csproj.CoreCompileInputs.cache
+C:\Users\Tec\source\repos\Dag5 programmering\Dag5 programmering\obj\Debug\Dag5 programmering.exe
+C:\Users\Tec\source\repos\Dag5 programmering\Dag5 programmering\obj\Debug\Dag5 programmering.pdb
